@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Top-Pattarapol/meow-sheet-shop.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Top-Pattarapol/meow-sheet-shop-be.git
